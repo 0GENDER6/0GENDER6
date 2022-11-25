@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm 0GENDER6</h1>
-<h3 align="center">A passionate developer from The Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0gender6&label=Profile%20views&color=0e75b6&style=flat" alt="0gender6" /> </p>
 
